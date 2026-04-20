@@ -1,5 +1,5 @@
 for this configuration to work you need to run this command : 
-'''
+'''bash
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 '''
 after that you can simply clone my repo inside $HOME/.config/tmux/
